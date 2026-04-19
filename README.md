@@ -1,8 +1,8 @@
 ## Hi there 👋
-I'm Fazal — DevOps & Cloud Enthusiast
+I'm Syed Fazal Uddin — DevOps & Cloud Enthusiast
 
 ## 🌐 Socials:
-[LinkedIn](https://linkedin.com/in/yourprofile)
+[LinkedIn](https://linkedin.com/in/syed-fazalud)
 
 ## 💻 Tech Stack:
 
@@ -14,6 +14,12 @@ I'm Fazal — DevOps & Cloud Enthusiast
 
 ## 📊 GitHub Stats:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=SYEDFAZAL53&show_icons=true&theme=radical)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SYEDFAZAL53&layout=compact)
+
+![Streak](https://streak-stats.demolab.com/?user=SYEDFAZAL53&theme=radical)
+
+## 📌 Top Repositories
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=SYEDFAZAL53&repo=repo-name)](https://github.com/SYEDFAZAL53/repo-name)
