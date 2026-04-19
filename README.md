@@ -19,7 +19,3 @@ I'm Syed Fazal Uddin — DevOps & Cloud Enthusiast
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SYEDFAZAL53&layout=compact)
 
 ![Streak](https://streak-stats.demolab.com/?user=SYEDFAZAL53&theme=radical)
-
-## 📌 Top Repositories
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=SYEDFAZAL53&repo=syedfazal53)](https://github.com/SYEDFAZAL53/syedfazal53)
