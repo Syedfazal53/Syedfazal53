@@ -22,4 +22,4 @@ I'm Syed Fazal Uddin — DevOps & Cloud Enthusiast
 
 ## 📌 Top Repositories
 
-![Repo](https://github-readme-stats.vercel.app/api/pin/?username=SYEDFAZAL53&repo=repo-name)(https://github.com/SYEDFAZAL53/repo-name)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=SYEDFAZAL53&repo=syedfazal53)](https://github.com/SYEDFAZAL53/syedfazal53)
